@@ -1,7 +1,13 @@
-<h1 align="center">I'm Bronson</h1>
-<h3 align="center">A writer of code and fantasy.</h3>
+<h1 align="center">Hello, I'm Bronson</h1>
+<h3 align="center">A lifelong learner with a passion for creating software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bronsonmullens&label=Profile%20views&color=0e75b6&style=flat" alt="bronsonmullens" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bronsonmullens" alt="bronsonmullens" /></a> </p>
+
+- 💻 I’m currently developing **apps and games**
+
+- 🌱 I’m currently learning **Swift and iOS Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
