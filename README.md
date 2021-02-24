@@ -1,10 +1,6 @@
 <h1 align="center">👋🏻 Hello, I'm Bronson!</h1>
 <h3 align="center">A lifelong learner with a passion for creating software.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bronsonmullens&label=Profile%20views&color=0e75b6&style=flat" alt="bronsonmullens" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bronsonmullens" alt="bronsonmullens" /></a> </p>
-
 ## About Me
 I'm currently studying iOS development for a variety of markets. My two favorite types of apps, so far, have been games and finance. My first app, <a href="https://apps.apple.com/us/app/just-flip-it/id1553668128">Just Flip It!</a> was approved for the AppStore in February of 2021. Not having a traditional background in technology meant beginning my development journey would be tough, but Lambda School made learning enjoyable and fast. Having previously taught kindergarten, I never would've guessed that I'd be one day making apps.
 
