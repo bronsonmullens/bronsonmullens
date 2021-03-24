@@ -2,7 +2,7 @@
 <h3 align="center">A lifelong learner with a passion for creating software.</h3>
 
 ## About Me
-An iOS developer from a non-technical background. My first app, <a href="https://apps.apple.com/us/app/just-flip-it/id1553668128">Just Flip It!</a> was approved for the AppStore in February of 2021.
+An iOS developer from a non-technical background. My first app, <a href="https://apps.apple.com/us/app/just-flip-it/id1553668128">Just Flip It!</a>, was approved for the AppStore in February of 2021.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronsonmullens&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
